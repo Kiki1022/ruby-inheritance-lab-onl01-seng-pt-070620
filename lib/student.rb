@@ -1,7 +1,5 @@
 class Student < User
-    @KNOWLEDGE = []
-  def initialize(array)
-    @KNOWLEDGE = []
-  end
+    #@KNOWLEDGE = []
+  
 
 end
